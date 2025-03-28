@@ -366,7 +366,7 @@ Si nécessaire, installez-les depuis nodejs.org.
 
 ## **Auteurs**:  
 
-### Equipe Back-en première semaine
+### Equipe Back-end première semaine
 
 *Neelab SADAT
 
