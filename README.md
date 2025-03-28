@@ -6,7 +6,7 @@
 
 
 
- <h1 align="center"> AMPNV-Anciens Meubles pour une Nouvelle Vie</h1>
+ <h1 align="center"> AMPNV-Anciens Meubles Pour une Nouvelle Vie</h1>
 
 
 
@@ -17,13 +17,6 @@
 ##  **Description du projet** :
 
 📌 **Plateforme de gestion d’un magasin de meubles** sur lequel des utilisateurs (admin) interagissent avec le **stock** et des utilisateurs (clients) **s'inscrivent et se connectent.**
-
-📌 **Le projet est divisé en plusieurs parties :**
-
- - ✅ L’affichage d’une page principale affichant tous les meubles
- - ✅ Détail d'un meuble avec photos et caractéristiques                
- - ✅ Gestion du stock pour l'administrateur                              
- - ✅ Inscription, connexion et deconnexion des utilisateurs  
 
 ##  **Screen du projet** :
 
@@ -59,7 +52,7 @@
 
 
 
-## ** Fonctionnalités futures**: 
+## **Fonctionnalités futures**: 
   
 - Ajout d'un système de paiement
 - Optimisation du panier
