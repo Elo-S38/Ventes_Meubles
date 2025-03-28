@@ -59,7 +59,7 @@
 
 
 
-## **🚀 Fonctionnalités futures**: 
+## ** Fonctionnalités futures**: 
   
 - Ajout d'un système de paiement
 - Optimisation du panier
