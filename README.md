@@ -18,7 +18,7 @@
 
 📌 **Plateforme de gestion d’un magasin de meubles** sur lequel des utilisateurs (admin) interagissent avec le **stock** et des utilisateurs (clients) **s'inscrivent et se connectent.**
 
-##  **Screen du projet** :
+##  **Screenshots du projet** :
 
 <div style="display: flex; justify-content: space-around;">
 <img src="front/VDM_front/src/assets/images/HomePage.png" alt="HomePage" width="200">
